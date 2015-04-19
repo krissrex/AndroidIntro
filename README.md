@@ -4,4 +4,4 @@ See https://docs.google.com/presentation/d/1wZTr5vL_PTxZEOYa4cn-tnhnVKIc2ekAI2Di
 
 # Functionality
 You can type text into an EditText, and push it to a list.
-<a src="res/preview.png">Preview image</a>
+<img src="res/preview.png" alt="Screenshot"/>
